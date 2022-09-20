@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hind SAAD 
-- 👀 I LOVE THE WEB 
-- 🌱 I’m currently computer visino student 
+- Hillaw i’m Hind SAAD 💫
+- I LOVE THE WEB 💻❤
+- I’m currently computer vision student ✨
 
 
 <!--- - 💞️ I’m looking to collaborate on ...
