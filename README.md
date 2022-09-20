@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hindo2
-- 👀 I’m interested in web dev
-- 🌱 I’m currently SE student 
+- 👋 Hi, I’m Hind SAAD 
+- 👀 I LOVE THE WEB 
+- 🌱 I’m currently computer visino student 
 
 
 <!--- - 💞️ I’m looking to collaborate on ...
